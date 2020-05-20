@@ -9,3 +9,5 @@
 >**yarn start**
 
 >**yarn android**
+
+### E  essa é a cara do App
