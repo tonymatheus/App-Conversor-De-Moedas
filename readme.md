@@ -12,3 +12,9 @@
 
 ### E  essa é a cara do App
 ![App Conversor De Moedas](https://github.com/tonymatheus/App-Conversor-De-Moedas/blob/master/Conversor%20App.gif)
+
+**Tecnologias Utilizadas**
+- [x] JavaScript
+- [x] React-Native
+- [x] Firebase
+- [x] Android Studio
