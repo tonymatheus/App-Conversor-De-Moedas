@@ -8,4 +8,4 @@
 
 >**yarn start**
 
->**yarn android
+>**yarn android**
