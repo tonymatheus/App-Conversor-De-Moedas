@@ -7,4 +7,5 @@
 >**yarn ou yarn install**
 
 >**yarn start**
+
 >**yarn android
