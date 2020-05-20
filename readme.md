@@ -16,5 +16,4 @@
 **Tecnologias Utilizadas**
 - [x] JavaScript
 - [x] React-Native
-- [x] Firebase
 - [x] Android Studio
